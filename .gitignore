@@ -1,0 +1,42 @@
+# ============ СЕКРЕТЫ ============
+.env
+.env.local
+.env.*.local
+
+# ============ PYTHON ============
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# ============ СОНЯ ============
+stats_last_date.txt
+Sonya.zip
+screenshot_*.png
+output/
+
+# ============ IDE ============
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ============ ОС ============
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============ ЛОГИ ============
+*.log
+# ============ МУЗЫКА (раскомментируй, если НЕ хочешь коммитить) ============
+# *.mp3
+# *.wav
+# *.ogg
+# *.flac
+# *.m4a

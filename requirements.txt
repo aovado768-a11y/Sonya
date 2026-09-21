@@ -1,0 +1,11 @@
+SpeechRecognition
+pyaudio
+pygame
+gTTS
+openai
+requests
+wikipedia
+pyautogui
+psutil
+screen-brightness-control
+python-dotenv
